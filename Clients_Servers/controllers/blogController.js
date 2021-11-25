@@ -1,2 +1,0 @@
-
-const blog_index
